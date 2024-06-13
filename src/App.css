@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.interform{
+  display: inline-block;
+  background-color: greenyellow;
+  padding: 25px;
+}
+.interform label{
+  display: inline-block;
+  width: 100px;
+}
+.interform div{
+  margin: 20px;
+}
